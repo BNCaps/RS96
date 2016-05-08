@@ -1,6 +1,12 @@
+TGK FUCTIONS:
+
 
 "0":["ACTION_LAYER_MOMENTARY",1],"1":["ACTION_BACKLIGHT_TOGGLE"],"2":["ACTION_BACKLIGHT_DECREASE"],"3":["ACTION_BACKLIGHT_INCREASE"],"4":["ACTION_FUNCTION","2",0],"5":["ACTION_FUNCTION","7",0],"6":["ACTION_FUNCTION","7","1"],"7":["ACTION_FUNCTION","4",0],"8":["ACTION_FUNCTION","3",0],"9":["ACTION_FUNCTION","6","2"],"10":["ACTION_FUNCTION","5","1"],"11":["ACTION_FUNCTION","5","4"],"12":["ACTION_FUNCTION","5","13"],"13":["ACTION_FUNCTION","5","5"],"14":["ACTION_FUNCTION","5","11"],"15":["ACTION_FUNCTION","5","6"],"16":["ACTION_FUNCTION","5","15"],"17":["ACTION_FUNCTION","5",0]
 
+
+
+
+TGK (and keyboard-layout-editor.com) LAYOUT SIMPLE LAYER MODE
 
 ["Esc\n\n\n\nfn4","F1\n\n\n\nfn5","F2\n\n\n\nfn6","F3\n\n\n\nfn7","F4\n\n\n\nfn8","F5","F6","F7","F8","F9","F10","F11","F12","PrtSc","Fn","Mute","VolDn","VolUp","Num Lock"],
 ["~\n`\n\n\nFn9","!\n1\n\n\nFn10","@\n2\n\n\nFn11","#\n3\n\n\nFn12","$\n4\n\n\nFn13","%\n5\n\n\nFn14","^\n6\n\n\nFn15","&\n7\n\n\nFn16","*\n8\n\n\nFn17","(\n9",")\n0","_\n-","+\n=",{w:2},"Backspace","Del","/","*","-"],
