@@ -10,7 +10,7 @@ TGK (and keyboard-layout-editor.com) LAYOUT SIMPLE LAYER MODE
 
 ["Esc\n\n\n\nfn4","F1\n\n\n\nfn5","F2\n\n\n\nfn6","F3\n\n\n\nfn7","F4\n\n\n\nfn8","F5","F6","F7","F8","F9","F10","F11","F12","PrtSc","Fn","Mute","VolDn","VolUp","Num Lock"],
 ["~\n`\n\n\nFn9","!\n1\n\n\nFn10","@\n2\n\n\nFn11","#\n3\n\n\nFn12","$\n4\n\n\nFn13","%\n5\n\n\nFn14","^\n6\n\n\nFn15","&\n7\n\n\nFn16","*\n8\n\n\nFn17","(\n9",")\n0","_\n-","+\n=",{w:2},"Backspace","Del","/","*","-"],
-[{w:1.5},"Tab",{a:0},"Q\n\n\n\nbutton1","W\n\n\n\nmouseup","E\n\n\n\nbutton2",{a:4},"R","T","Y\n\n\n\nCalc","U","I\n\n\n\nIns","O","P","{\n[","}\n]",{w:1.5},"|\n\\","7\nHome","8\nup","9\nPgUp",{h:2},"+"],
-[{w:1.75},"Caps Lock",{a:0},"A\n\n\n\nmouseleft","S\n\n\n\nmousedown","D\n\n\n\nmouseright",{a:4},"F","G","H","J","K","L",":\n;","\"\n'",{w:2.25},"Enter","4\nleft","5","6\nRight"],
-[{w:2.25},"Shift","Z","X","C\n\n\n\nfn3","V\n\n\n\nfn1","B\n\n\n\nfn2","N\n\n\n\nVolDn","M\n\n\n\nVolUp","<\n,\n\n\nMute",">\n.","?\n/",{w:1.75},"RShift","Up\nPgUp","1\nEnd","2\nDown","3\nPgDn",{h:2},"PEnter"],
-[{w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{w:6.25},"Space",{w:1.5},"RAlt",{w:1.5},"RCtrl","Left","Down\nPgdn","Right","0\nIns",".\nDel"]
+[{w:1.5},"Tab",{a:0},"Q\n\n\n\nbutton1","W\n\n\n\nmouseup","E\n\n\n\nbutton2",{a:4},"R","T","Y\n\n\n\nCalc","U","I\n\n\n\nIns","O","P","{\n[","}\n]",{w:1.5},"|\n\\","7\nHome","8\nup","9\nPgUp","Cal"],
+[{w:1.75},"Caps Lock",{a:0},"A\n\n\n\nmouseleft","S\n\n\n\nmousedown","D\n\n\n\nmouseright",{a:4},"F","G","H","J","K","L",":\n;","\"\n'",{w:2.25},"Enter","4\nleft","5","6\nRight","+"],
+[{w:2.25},"Shift","Z","X","C\n\n\n\nfn3","V\n\n\n\nfn1","B\n\n\n\nfn2","N\n\n\n\nVolDn","M\n\n\n\nVolUp","<\n,\n\n\nMute",">\n.","?\n/",{w:1.75},"RShift","Up","1\nEnd","2\nDown","3\nPgDn",{h:2},"PEnter"],
+[{w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{w:6.25},"Space",{w:1.5},"RAlt",{w:1.5},"RCtrl","Left","Down","Right","0\nIns",".\nDel"]
